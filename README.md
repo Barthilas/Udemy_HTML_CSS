@@ -18,3 +18,6 @@ Based on Udemy course: [link](https://www.udemy.com/course/in-depth-html-css-cou
 - COMMAND + / === TOOGLE LINE COMMENT
 - COMMAND + K + COMMAND + S === SHORTCUTS
 - COMMAND + ENTER === START A NEW LINE
+
+## Emmet extension
+- "!" to generate basic syntax (meta, link, head...)
